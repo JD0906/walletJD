@@ -1,3 +1,3 @@
-const url = 'http://walletapplicationjd.herokuapp.com/public'
+const url = 'http://walletapplicationjd.herokuapp.com'
 
 export default url 
